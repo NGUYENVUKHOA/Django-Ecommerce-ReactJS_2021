@@ -1,3 +1,12 @@
 # Django-Ecommerce-ReactJS_2021!
-[1](https://user-images.githubusercontent.com/20927103/143423353-652a65b2-2852-4f1d-8bd9-81ab0be09be2.JPG)
+Backend 
+1 pip install - r requirements.txt
+2 python manage.py makemigrations --> python manage.py migrate
+3 python manage.py runserver
+
+Some picture API Django rest framework
 ![image](https://user-images.githubusercontent.com/20927103/143423623-93deab79-f37f-4ce4-8a27-be43ca5c8e3c.png)
+
+Frontend use proxy for "proxy": "http://localhost:8000", you can check at package.js
+Some picture Frontend+Django
+
